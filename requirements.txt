@@ -1,6 +1,6 @@
 fastapi
 numpy
-parselmouth
+praat-parselmouth
 pandas
 librosa
 opensmile
