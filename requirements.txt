@@ -4,5 +4,6 @@ praat-parselmouth
 pandas
 librosa
 opensmile
+matplotlib
 Signal_Analysis
 Image
