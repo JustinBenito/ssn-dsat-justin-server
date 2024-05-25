@@ -1,1 +1,8 @@
 fastapi
+numpy
+parselmouth
+pandas
+librosa
+opensmile
+Signal_Analysis
+Image
